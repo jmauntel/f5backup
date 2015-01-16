@@ -1,0 +1,6 @@
+# This file contains a list of IP addresses that will be targeted for backups.
+# Each IP address should be on its own line
+#
+# Example format:
+# 10.0.0.1
+# 10.2.56.68

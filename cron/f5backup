@@ -1,0 +1,2 @@
+# Backup F5 configurations and commit to Subversion
+55 23 * * * root /apps/f5backup/bin/getF5Configs.sh
